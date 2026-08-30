@@ -14,7 +14,7 @@ go get github.com/c-poet/go-utils
 | --- | --- | --- |
 | `cipher` | `github.com/c-poet/go-utils/cipher` | AES-CBC 加密、解密及 Base64 字符串辅助方法 |
 | `json` | `github.com/c-poet/go-utils/json` | 通过 JSON 在对象、Map 与结构体间转换 |
-| `os` | `github.com/c-poet/go-utils/os` | Windows、macOS、Linux 运行环境判断 |
+| `os` | `github.com/c-poet/go-utils/os` | Windows、macOS、Linux 运行环境判断，以及当前程序与同目录扩展程序路径获取 |
 | `strings` | `github.com/c-poet/go-utils/strings` | 按指定分隔符或逗号拆分字符串，可保留或过滤空字符串 |
 | `types` | `github.com/c-poet/go-utils/types` | 反射类型判断 |
 
